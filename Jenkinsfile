@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKERHUB_REPO = "anithavalluri/myntra"   // change to your DockerHub repo
+        DOCKERHUB_REPO = "harireddy2910"   // change to your DockerHub repo
         IMAGE_TAG = "v1"
     }
 
